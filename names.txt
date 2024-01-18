@@ -1,0 +1,8 @@
+1 Aang
+2 zuko
+3 appa
+4 katara
+5 sokka
+6 momo
+7 iroh
+8 toph
